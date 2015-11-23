@@ -12,12 +12,33 @@ Or wanna ask anything, my email is: Nightonke@outlook.com.
 ##Tags
 |#    |Tag                                          |Problems                             |               
 |:----|:--------------------------------------------|:------------------------------------|
-|1    |Array|Two Sum                                                                      |   
-|2    |Hash Table|                                                                             |
-|3    |||
-|3    |||
-|3    |||
-|3    ||||3    |||
+|1    |Array|Two Sum|   
+|2    |Hash Table|Two Sum|
+|3    |Linked List||
+|4    |Math||
+|5    |Two Pointers||
+|6    |String||
+|7    |Binary Search||
+|8    |Divide and Conquer||
+|9    |Dynamic Programming||
+|10    |Backtracking||
+|11    |Stack||
+|12    |Heap||
+|13    |Greedy||
+|14    |Sort||
+|15    |Bit Manipulation||
+|16    |Tree||
+|17    |Depth-first Search||
+|18    |Breadth-first Search||
+|19    |Graph||
+|20    |Topological||
+|21    |Trie||
+|22    |Binary Search Tree||
+|23    |Recursion||
+|24    |Union Find||
+|25    |Design||
+|26    |Segment Tree||
+|27    |Binary Indexed Tree||
 
 
 ##Intro
