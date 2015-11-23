@@ -1,8 +1,12 @@
 # LeetCode
-Problems and solutions in LeetCode.
+Problems and solutions in LeetCode.  
+For more detailed solutions, please visit my blog: [Nightonke's Blog](http://blog.csdn.net/u012925008).  
+Or wanna ask anything, my email is: Nightonke@outlook.com.
 
 ##Catalogue
-
+|#    |Title                                        |Problem                              |Solution                                  |
+|:----|:--------------------------------------------|:------------------------------------|:-----------------------------------------|
+|1    |Two Sum|[_0001_Two_Sum.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0001_Two_Sum.jpg)|[_0001_Two_Sum.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0001_Two_Sum.h)                                          |
 
 
 
