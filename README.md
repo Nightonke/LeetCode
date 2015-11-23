@@ -6,10 +6,18 @@ Or wanna ask anything, my email is: Nightonke@outlook.com.
 ##Catalogue
 |#    |Title                                        |Problem                              |Solution                                  |
 |:----|:--------------------------------------------|:------------------------------------|:-----------------------------------------|
-|1    |Two Sum|[_0001_Two_Sum.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0001_Two_Sum.jpg)|[_0001_Two_Sum.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0001_Two_Sum.h)                                          |
+|1    |[Two Sum](https://leetcode.com/problems/two-sum/)|[_0001_Two_Sum.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0001_Two_Sum.jpg)|[_0001_Two_Sum.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0001_Two_Sum.h)                                          |
 
 
-
+##Tags
+|#    |Tag                                          |Problems                             |               
+|:----|:--------------------------------------------|:------------------------------------|
+|1    |Array|Two Sum                                                                      |   
+|2    |Hash Table|                                                                             |
+|3    |||
+|3    |||
+|3    |||
+|3    ||||3    |||
 
 
 ##Intro
