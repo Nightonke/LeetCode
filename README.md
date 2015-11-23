@@ -6,20 +6,31 @@ Or wanna ask anything, my email is: Nightonke@outlook.com.
 ##Catalogue
 |#    |Title                                        |Problem                              |Solution                                  |
 |:----|:--------------------------------------------|:------------------------------------|:-----------------------------------------|
-|1    |[Two Sum](https://leetcode.com/problems/two-sum/)|[_0001_Two_Sum.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0001_Two_Sum.jpg)|[_0001_Two_Sum.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0001_Two_Sum.h)                                          |
+|1    |[Two Sum](https://leetcode.com/problems/two-sum/)|[_0001_Two_Sum.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0001_Two_Sum.jpg)|[_0001_Two_Sum.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0001_Two_Sum.h)
+|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[_0002_Add_Two_Numbers.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0002_Add_Two_Numbers.jpg)|[_0002_Add_Two_Numbers.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0002_Add_Two_Numbers.h)
+|
+|3|[Longest Substring Without RepeatingCharacters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[_0003_Longest_Substring_Without_Repeating_Characters.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0003_Longest_Substring_Without_Repeating_Characters.jpg)|[_0003_Longest_Substring_Without_Repeating_Characters.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0003_Longest_Substring_Without_Repeating_Characters.h)
+|
+|4|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[_0004_Median_of_Two_Sorted_Arrays.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0004_Median_of_Two_Sorted_Arrays.jpg)|[_0004_Median_of_Two_Sorted_Arrays.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0004_Median_of_Two_Sorted_Arrays.h)
+|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[_0005_Longest_Palindromic_Substring.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0005_Longest_Palindromic_Substring.jpg)|[_0005_Longest_Palindromic_Substring.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0005_Longest_Palindromic_Substring.h)
+|
+
+
 
 
 ##Tags
 |#    |Tag                                          |Problems                             |               
 |:----|:--------------------------------------------|:------------------------------------|
-|1    |Array|Two Sum|   
-|2    |Hash Table|Two Sum|
-|3    |Linked List||
-|4    |Math||
-|5    |Two Pointers||
-|6    |String||
-|7    |Binary Search||
-|8    |Divide and Conquer||
+|1    |Array|Two Sum, Median of Two Sorted Arrays|   
+|2    |Hash Table|Two Sum, Longest Substring Without Repeating Characters|
+|3    |Linked List|Add Two Numbers|
+|4    |Math|Add Two Numbers|
+|5    |Two Pointers|Longest Substring Without Repeating Characters|
+|6    |String|Longest Substring Without Repeating Characters, Longest Palindromic Substring|
+|7    |Binary Search|Median of Two Sorted Arrays|
+|8    |Divide and Conquer|Median of Two Sorted Arrays|
 |9    |Dynamic Programming||
 |10    |Backtracking||
 |11    |Stack||
