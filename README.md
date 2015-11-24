@@ -20,51 +20,51 @@ Or wanna ask anything, my email is: Nightonke@outlook.com.
 |
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[_0007_Reverse_Integer.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0007_Reverse_Integer.jpg)|[_0007_Reverse_Integer.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0007_Reverse_Integer.h)
 |
-|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[_0008_String_to_Integer__atoi_.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0008_String_to_Integer__atoi_.jpg)|[_0008_String_to_Integer.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0008_String_to_Integer.h)
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[\_0008_String_to_Integer__atoi_.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0008_String_to_Integer__atoi_.jpg)|[_0008_String_to_Integer.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0008_String_to_Integer.h)
 |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[_0009_Palindrome_Number.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0009_Palindrome_Number.jpg)|[_0009_Palindrome_Number.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0009_Palindrome_Number.h)
 |
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[_0010_Regular_Expression_Matching.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0010_Regular_Expression_Matching.jpg)|[_0010_Regular_Expression_Matching.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0010_Regular_Expression_Matching.h)
 |
-|11|[]()|[_0011_Container_With_Most_Water.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0011_Container_With_Most_Water.jpg)|[_0011_Container_With_Most_Water.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0011_Container_With_Most_Water.h)
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[_0011_Container_With_Most_Water.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0011_Container_With_Most_Water.jpg)|[_0011_Container_With_Most_Water.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0011_Container_With_Most_Water.h)
 |
-|12|[]()|[_0012_Integer_to_Roman.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0012_Integer_to_Roman.jpg)|[_0012_Integer_to_Roman.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0012_Integer_to_Roman.h)
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[_0012_Integer_to_Roman.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0012_Integer_to_Roman.jpg)|[_0012_Integer_to_Roman.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0012_Integer_to_Roman.h)
 |
-|13|[]()|[_0013_Roman_to_Integer.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0013_Roman_to_Integer.jpg)|[_0013_Roman_to_Integer.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0013_Roman_to_Integer.h)
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[_0013_Roman_to_Integer.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0013_Roman_to_Integer.jpg)|[_0013_Roman_to_Integer.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0013_Roman_to_Integer.h)
 |
-|14|[]()|[_0014_Longest_Common_Prefix.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0014_Longest_Common_Prefix.jpg)|[_0014_Longest_Common_Prefix.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0014_Longest_Common_Prefix.h)
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[_0014_Longest_Common_Prefix.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0014_Longest_Common_Prefix.jpg)|[_0014_Longest_Common_Prefix.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0014_Longest_Common_Prefix.h)
 |
-|15|[]()|[_0015_3Sum.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0015_3Sum.jpg)|[_0015_3Sum.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0015_3Sum.h)
+|15|[3Sum](https://leetcode.com/problems/3sum/)|[_0015_3Sum.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0015_3Sum.jpg)|[_0015_3Sum.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0015_3Sum.h)
 |
-|16|[]()|[_0016_3Sum_Closest.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0016_3Sum_Closest.jpg)|[_0016_3Sum_Closest.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0016_3Sum_Closest.h)
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[_0016_3Sum_Closest.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0016_3Sum_Closest.jpg)|[_0016_3Sum_Closest.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0016_3Sum_Closest.h)
 |
-|17|[]()|[_0017_Letter_Combinations_of_a_Phone_Number.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0017_Letter_Combinations_of_a_Phone_Number.jpg)|[_0017_Letter_Combinations_of_a_Phone_Number.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0017_Letter_Combinations_of_a_Phone_Number.h)
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[_0017_Letter_Combinations_of_a_Phone_Number.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0017_Letter_Combinations_of_a_Phone_Number.jpg)|[_0017_Letter_Combinations_of_a_Phone_Number.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0017_Letter_Combinations_of_a_Phone_Number.h)
 |
-|18|[]()|[_0018_4Sum.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0018_4Sum.jpg)|[_0018_4Sum.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0018_4Sum.h)
+|18|[4Sum](https://leetcode.com/problems/4sum/)|[_0018_4Sum.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0018_4Sum.jpg)|[_0018_4Sum.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0018_4Sum.h)
 |
-|19|[]()|[_0019_Remove_Nth_Node_From_End_of_List.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0019_Remove_Nth_Node_From_End_of_List.jpg)|[_0019_Remove_Nth_Node_From_End_of_List.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0019_Remove_Nth_Node_From_End_of_List.h)
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[_0019_Remove_Nth_Node_From_End_of_List.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0019_Remove_Nth_Node_From_End_of_List.jpg)|[_0019_Remove_Nth_Node_From_End_of_List.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0019_Remove_Nth_Node_From_End_of_List.h)
 |
-|20|[]()|[_0020_Valid_Parentheses.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0020_Valid_Parentheses.jpg)|[_0020_Valid_Parentheses.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0020_Valid_Parentheses.h)
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[_0020_Valid_Parentheses.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0020_Valid_Parentheses.jpg)|[_0020_Valid_Parentheses.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0020_Valid_Parentheses.h)
 |
-|21|[]()|[_0021_Merge_Two_Sorted_Lists.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0021_Merge_Two_Sorted_Lists.jpg)|[_0021_Merge_Two_Sorted_Lists.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0021_Merge_Two_Sorted_Lists.h)
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[_0021_Merge_Two_Sorted_Lists.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0021_Merge_Two_Sorted_Lists.jpg)|[_0021_Merge_Two_Sorted_Lists.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0021_Merge_Two_Sorted_Lists.h)
 |
-|22|[]()|[_0022_Generate_Parentheses.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0022_Generate_Parentheses.jpg)|[_0022_Generate_Parentheses.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0022_Generate_Parentheses.h)
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[_0022_Generate_Parentheses.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0022_Generate_Parentheses.jpg)|[_0022_Generate_Parentheses.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0022_Generate_Parentheses.h)
 |
-|23|[]()|[_0023_Merge_k_Sorted_Lists.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0023_Merge_k_Sorted_Lists.jpg)|[_0023_Merge_k_Sorted_Lists.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0023_Merge_k_Sorted_Lists.h)
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[_0023_Merge_k_Sorted_Lists.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0023_Merge_k_Sorted_Lists.jpg)|[_0023_Merge_k_Sorted_Lists.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0023_Merge_k_Sorted_Lists.h)
 |
-|24|[]()|[_0024_Swap_Nodes_in_Pairs.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0024_Swap_Nodes_in_Pairs.jpg)|[_0024_Swap_Nodes_in_Pairs.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0024_Swap_Nodes_in_Pairs.h)
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[_0024_Swap_Nodes_in_Pairs.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0024_Swap_Nodes_in_Pairs.jpg)|[_0024_Swap_Nodes_in_Pairs.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0024_Swap_Nodes_in_Pairs.h)
 |
-|25|[]()|[_0025_Reverse_Nodes_in_k_Group.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0025_Reverse_Nodes_in_k_Group.jpg)|[_0025_Reverse_Nodes_in_k_Group.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0025_Reverse_Nodes_in_k_Group.h)
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[_0025_Reverse_Nodes_in_k_Group.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0025_Reverse_Nodes_in_k_Group.jpg)|[_0025_Reverse_Nodes_in_k_Group.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0025_Reverse_Nodes_in_k_Group.h)
 |
-|26|[]()|[_0026_Remove_Duplicates_from_Sorted_Array.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0026_Remove_Duplicates_from_Sorted_Array.jpg)|[_0026_Remove_Duplicates_from_Sorted_Array.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0026_Remove_Duplicates_from_Sorted_Array.h)
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[_0026_Remove_Duplicates_from_Sorted_Array.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0026_Remove_Duplicates_from_Sorted_Array.jpg)|[_0026_Remove_Duplicates_from_Sorted_Array.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0026_Remove_Duplicates_from_Sorted_Array.h)
 |
-|27|[]()|[_0027_Remove_Element.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0027_Remove_Element.jpg)|[_0027_Remove_Element.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0027_Remove_Element.h)
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[_0027_Remove_Element.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0027_Remove_Element.jpg)|[_0027_Remove_Element.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0027_Remove_Element.h)
 |
-|28|[]()|[\_0028_Implement_strStr__.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0028_Implement_strStr__.jpg)|[\_0028_Implement_strStr__.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0028_Implement_strStr__.h)
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[\_0028_Implement_strStr__.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0028_Implement_strStr__.jpg)|[\_0028_Implement_strStr__.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0028_Implement_strStr__.h)
 |
-|29|[]()|[_0029_Divide_Two_Integers.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0029_Divide_Two_Integers.jpg)|[_0029_Divide_Two_Integers.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0029_Divide_Two_Integers.h)
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[_0029_Divide_Two_Integers.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0029_Divide_Two_Integers.jpg)|[_0029_Divide_Two_Integers.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0029_Divide_Two_Integers.h)
 |
-|30|[]()|[_0030_Substring_with_Concatenation_of_All_Words.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0030_Substring_with_Concatenation_of_All_Words.jpg)|[_0030_Substring_with_Concatenation_of_All_Words.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0030_Substring_with_Concatenation_of_All_Words.h)
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[_0030_Substring_with_Concatenation_of_All_Words.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0030_Substring_with_Concatenation_of_All_Words.jpg)|[_0030_Substring_with_Concatenation_of_All_Words.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0030_Substring_with_Concatenation_of_All_Words.h)
 |
 
 ##Intro
