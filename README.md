@@ -66,6 +66,26 @@ Or wanna ask anything, my email is: Nightonke@outlook.com.
 |
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[_0030_Substring_with_Concatenation_of_All_Words.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0030_Substring_with_Concatenation_of_All_Words.jpg)|[_0030_Substring_with_Concatenation_of_All_Words.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0030_Substring_with_Concatenation_of_All_Words.h)
 |
+|31|[]()|[_0031_Next_Permutation.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0031_Next_Permutation.jpg)|[_0031_Next_Permutation.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0031_Next_Permutation.h)
+|
+|32|[]()|[_0032_Longest_Valid_Parentheses.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0032_Longest_Valid_Parentheses.jpg)|[_0032_Longest_Valid_Parentheses.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0032_Longest_Valid_Parentheses.h)
+|
+|33|[]()|[_0033_Search_in_Rotated_Sorted_Array.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0033_Search_in_Rotated_Sorted_Array.jpg)|[_0033_Search_in_Rotated_Sorted_Array.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0033_Search_in_Rotated_Sorted_Array.h)
+|
+|34|[]()|[_0034_Search_for_a_Range.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0034_Search_for_a_Range.jpg)|[_0034_Search_for_a_Range.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0034_Search_for_a_Range.h)
+|
+|35|[]()|[_0035_Search_Insert_Position.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0035_Search_Insert_Position.jpg)|[_0035_Search_Insert_Position.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0035_Search_Insert_Position.h)
+|
+|36|[]()|[_0036_Valid_Sudoku.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0036_Valid_Sudoku.jpg)|[_0036_Valid_Sudoku.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0036_Valid_Sudoku.h)
+|
+|37|[]()|[_0037_Sudoku_Solver.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0037_Sudoku_Solver.jpg)|[_0037_Sudoku_Solver.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0037_Sudoku_Solver.h)
+|
+|38|[]()|[_0038_Count_and_Say.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0038_Count_and_Say.jpg)|[_0038_Count_and_Say.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0038_Count_and_Say.h)
+|
+|39|[]()|[_0039_Combination_Sum.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0039_Combination_Sum.jpg)|[_0039_Combination_Sum.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0039_Combination_Sum.h)
+|
+|40|[]()|[_0040_Combination_Sum_II.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0040_Combination_Sum_II.jpg)|[_0040_Combination_Sum_II.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0040_Combination_Sum_II.h)
+|
 
 ##Intro
 LeetCode is a awesome online judge where there are hundreds of programming problems for interview. 
