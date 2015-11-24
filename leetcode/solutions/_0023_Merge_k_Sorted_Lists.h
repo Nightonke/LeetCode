@@ -10,47 +10,37 @@ class _0023_Merge_k_Sorted_Lists {
 
     class Solution {
     public:
-        ListNode *mergeKLists(vector<ListNode *> &lists) {
+        ListNode *mergeKLists(vector<ListNode *> & lists) {
             if (lists.size() == 0) return NULL;
             if (lists.size() == 1) return lists[0];
-            ListNode *new_head = NULL;
-            ListNode *move;
-            bool is_head = true;  // weather to make the head of the return list
+            vector<ListNode * > v;
+            for (int i = 0; i < lists.size(); i++) {
+                v.push_back(lists[i]);
+            }
+            int size = lists.size();
+            int start = 0;
             while (1) {
-                bool is_empty = true;  // to see if it's empty(all NULL)
-                int min;
-                int mem;
-                int i;
-                int j;
-                for (i = 0; i < lists.size(); i++) {  // find the first val
-                    if (lists[i] != NULL) {
-                        is_empty = false;
-                        min = lists[i]->val;
-                        mem = i;
-                        break;
-                    }
-                }
-                if (is_empty) {  // notice that lists may be {NULL, NULL}, so the initial value of new_head is NULL
-                    return new_head;
-                }
-                for (j = i + 1; j < lists.size(); j++) {  // find the min val and the pos
-                    if (lists[j] && lists[j]->val < min) {
-                        min = lists[j]->val;
-                        mem = j;
-                    }
-                }
-                if (is_head) {
-                    is_head = false;
-                    new_head = new ListNode(min);
-                    move = new_head;
-                } else {
-                    ListNode *new_node = new ListNode(min);
-                    move->next = new_node;
-                    move = move->next;
-                }
-                ListNode *del = lists[mem];
-                lists[mem] = lists[mem]->next;
-                delete del;
+                v.push_back(mergeTwoLists(v[start], v[start + 1]));
+                size--;
+                start += 2;
+                if (size == 1) return v[start];
+            }
+        }
+        ListNode * mergeTwoLists(ListNode *l1, ListNode *l2) {
+            if (l1 == NULL) {
+                return l2;
+            }
+            if (l2 == NULL) {
+                return l1;
+            }
+            if (l1->val < l2->val) {
+                ListNode * head = new ListNode(l1->val);
+                head->next = mergeTwoLists(l1->next, l2);
+                return head;
+            } else {
+                ListNode * head = new ListNode(l2->val);
+                head->next = mergeTwoLists(l1, l2->next);
+                return head;
             }
         }
     };

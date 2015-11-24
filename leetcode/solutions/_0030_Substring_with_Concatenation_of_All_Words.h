@@ -11,7 +11,7 @@ class _0030_Substring_with_Concatenation_of_All_Words {
     class Solution {
     public:
         map<string, int> shouldBe;  // L中string应有的数量
-        map<string, int> now;  // 当前构建的string的数量
+        map<string, int> now; // 当前构建的string的数量
         vector<int> findSubstring(string S, vector<string> &L) {
             vector<int> ans;
             for (int i = 0; i < L.size(); i++) {
