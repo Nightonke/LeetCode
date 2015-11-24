@@ -86,6 +86,46 @@ Or wanna ask anything, my email is: Nightonke@outlook.com.
 |
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[_0040_Combination_Sum_II.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0040_Combination_Sum_II.jpg)|[_0040_Combination_Sum_II.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0040_Combination_Sum_II.h)
 |
+|41|[]()|[_0041_First_Missing_Positive.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0041_First_Missing_Positive.jpg)|[_0041_First_Missing_Positive.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0041_First_Missing_Positive.h)
+|
+|42|[]()|[_0042_Trapping_Rain_Water.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0042_Trapping_Rain_Water.jpg)|[_0042_Trapping_Rain_Water.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0042_Trapping_Rain_Water.h)
+|
+|43|[]()|[_0043_Multiply_Strings.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0043_Multiply_Strings.jpg)|[_0043_Multiply_Strings.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0043_Multiply_Strings.h)
+|
+|44|[]()|[_0044_Wildcard_Matching.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0044_Wildcard_Matching.jpg)|[_0044_Wildcard_Matching.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0044_Wildcard_Matching.h)
+|
+|45|[]()|[_0045_Jump_Game_II.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0045_Jump_Game_II.jpg)|[_0045_Jump_Game_II.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0045_Jump_Game_II.h)
+|
+|46|[]()|[_0046_Permutations.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0046_Permutations.jpg)|[_0046_Permutations.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0046_Permutations.h)
+|
+|47|[]()|[_0047_Permutations_II.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0047_Permutations_II.jpg)|[_0047_Permutations_II.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0047_Permutations_II.h)
+|
+|48|[]()|[_0048_Rotate_Image.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0048_Rotate_Image.jpg)|[_0048_Rotate_Image.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0048_Rotate_Image.h)
+|
+|49|[]()|[_0049_Group_Anagrams.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0049_Group_Anagrams.jpg)|[_0049_Group_Anagrams.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0049_Group_Anagrams.h)
+|
+|50|[]()|[_0050_Pow_x__n_.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0050_Pow_x__n_.jpg)|[_0050_Pow_x__n_.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0050_Pow_x__n_.h)
+|
+|51|[]()|[_0051_N_Queens.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0051_N_Queens.jpg)|[_0051_N_Queens.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0051_N_Queens.h)
+|
+|52|[]()|[_0052_N_Queens_II.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0052_N_Queens_II.jpg)|[_0052_N_Queens_II.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0052_N_Queens_II.h)
+|
+|53|[]()|[_0053_Maximum_Subarray.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0053_Maximum_Subarray.jpg)|[_0053_Maximum_Subarray.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0053_Maximum_Subarray.h)
+|
+|54|[]()|[_0054_Spiral_Matrix.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0054_Spiral_Matrix.jpg)|[_0054_Spiral_Matrix.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0054_Spiral_Matrix.h)
+|
+|55|[]()|[_0055_Jump_Game.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0055_Jump_Game.jpg)|[_0055_Jump_Game.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0055_Jump_Game.h)
+|
+|56|[]()|[_0056_Merge_Intervals.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0056_Merge_Intervals.jpg)|[_0056_Merge_Intervals.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0056_Merge_Intervals.h)
+|
+|57|[]()|[_0057_Insert_Interval.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0057_Insert_Interval.jpg)|[_0057_Insert_Interval.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0057_Insert_Interval.h)
+|
+|58|[]()|[_0058_Length_of_Last_Word.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0058_Length_of_Last_Word.jpg)|[_0058_Length_of_Last_Word.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0058_Length_of_Last_Word.h)
+|
+|59|[]()|[_0059_Spiral_Matrix_II.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0059_Spiral_Matrix_II.jpg)|[_0059_Spiral_Matrix_II.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0059_Spiral_Matrix_II.h)
+|
+|60|[]()|[_0060_Permutation_Sequence.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0060_Permutation_Sequence.jpg)|[_0060_Permutation_Sequence.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0060_Permutation_Sequence.h)
+|
 
 ##Intro
 LeetCode is a awesome online judge where there are hundreds of programming problems for interview. 
