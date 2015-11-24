@@ -16,41 +16,16 @@ Or wanna ask anything, my email is: Nightonke@outlook.com.
 |
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[_0005_Longest_Palindromic_Substring.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0005_Longest_Palindromic_Substring.jpg)|[_0005_Longest_Palindromic_Substring.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0005_Longest_Palindromic_Substring.h)
 |
-
-
-
-
-##Tags
-|#    |Tag                                          |Problems                             |               
-|:----|:--------------------------------------------|:------------------------------------|
-|1    |Array|Two Sum, Median of Two Sorted Arrays|   
-|2    |Hash Table|Two Sum, Longest Substring Without Repeating Characters|
-|3    |Linked List|Add Two Numbers|
-|4    |Math|Add Two Numbers|
-|5    |Two Pointers|Longest Substring Without Repeating Characters|
-|6    |String|Longest Substring Without Repeating Characters, Longest Palindromic Substring|
-|7    |Binary Search|Median of Two Sorted Arrays|
-|8    |Divide and Conquer|Median of Two Sorted Arrays|
-|9    |Dynamic Programming||
-|10    |Backtracking||
-|11    |Stack||
-|12    |Heap||
-|13    |Greedy||
-|14    |Sort||
-|15    |Bit Manipulation||
-|16    |Tree||
-|17    |Depth-first Search||
-|18    |Breadth-first Search||
-|19    |Graph||
-|20    |Topological||
-|21    |Trie||
-|22    |Binary Search Tree||
-|23    |Recursion||
-|24    |Union Find||
-|25    |Design||
-|26    |Segment Tree||
-|27    |Binary Indexed Tree||
-
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[_0006_ZigZag_Conversion.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0006_ZigZag_Conversion.jpg)|[_0006_ZigZag_Conversion.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0006_ZigZag_Conversion.h)
+|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[_0007_Reverse_Integer.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0007_Reverse_Integer.jpg)|[_0007_Reverse_Integer.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0007_Reverse_Integer.h)
+|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[_0008_String_to_Integer__atoi_.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0008_String_to_Integer__atoi_.jpg)|[_0008_String_to_Integer.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0008_String_to_Integer.h)
+|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[_0009_Palindrome_Number.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0009_Palindrome_Number.jpg)|[_0009_Palindrome_Number.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0009_Palindrome_Number.h)
+|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[_0010_Regular_Expression_Matching.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0010_Regular_Expression_Matching.jpg)|[_0010_Regular_Expression_Matching.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0010_Regular_Expression_Matching.h)
+|
 
 ##Intro
 LeetCode is a awesome online judge where there are hundreds of programming problems for interview. 
