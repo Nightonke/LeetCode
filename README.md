@@ -126,6 +126,26 @@ Or wanna ask anything, my email is: Nightonke@outlook.com.
 |
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[_0060_Permutation_Sequence.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0060_Permutation_Sequence.jpg)|[_0060_Permutation_Sequence.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0060_Permutation_Sequence.h)
 |
+|61|[]()|[_0061_Rotate_List.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0061_Rotate_List.jpg)|[_0061_Rotate_List.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0061_Rotate_List.h)
+|
+|62|[]()|[_0062_Unique_Paths.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0062_Unique_Paths.jpg)|[_0062_Unique_Paths.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0062_Unique_Paths.h)
+|
+|63|[]()|[_0063_Unique_Paths_II.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0063_Unique_Paths_II.jpg)|[_0063_Unique_Paths_II.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0063_Unique_Paths_II.h)
+|
+|64|[]()|[_0064_Minimum_Path_Sum.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0064_Minimum_Path_Sum.jpg)|[_0064_Minimum_Path_Sum.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0064_Minimum_Path_Sum.h)
+|
+|65|[]()|[_0065_Valid_Number.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0065_Valid_Number.jpg)|[_0065_Valid_Number.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0065_Valid_Number.h)
+|
+|66|[]()|[_0066_Plus_One.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0066_Plus_One.jpg)|[_0066_Plus_One.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0066_Plus_One.h)
+|
+|67|[]()|[_0067_Add_Binary.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0067_Add_Binary.jpg)|[_0067_Add_Binary.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0067_Add_Binary.h)
+|
+|68|[]()|[_0068_Text_Justification.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0068_Text_Justification.jpg)|[_0068_Text_Justification.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0068_Text_Justification.h)
+|
+|69|[]()|[\_0069_Sqrt_x_.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0069_Sqrt_x_.jpg)|[_0069_Sqrt_x_.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0069_Sqrt_x_.h)
+|
+|70|[]()|[_0070_Climbing_Stairs.jpg](https://github.com/Nightonke/LeetCode/blob/master/leetcode/problems/_0070_Climbing_Stairs.jpg)|[_0070_Climbing_Stairs.h](https://github.com/Nightonke/LeetCode/blob/master/leetcode/solutions/_0070_Climbing_Stairs.h)
+|
 
 ##Intro
 LeetCode is a awesome online judge where there are hundreds of programming problems for interview. 
