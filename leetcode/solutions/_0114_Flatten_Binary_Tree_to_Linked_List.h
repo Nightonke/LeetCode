@@ -1,0 +1,16 @@
+//
+// Created by Weiping Huang on 2015/11/25.
+//
+
+#ifndef LEETCODE__0114_FLATTEN_BINARY_TREE_TO_LINKED_LIST_H
+#define LEETCODE__0114_FLATTEN_BINARY_TREE_TO_LINKED_LIST_H
+
+
+class _0114_Flatten_Binary_Tree_to_Linked_List {
+
+
+
+};
+
+
+#endif // LEETCODE__0114_FLATTEN_BINARY_TREE_TO_LINKED_LIST_H

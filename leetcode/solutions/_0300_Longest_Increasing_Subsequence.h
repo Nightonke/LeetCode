@@ -1,0 +1,16 @@
+//
+// Created by Weiping Huang on 2015/11/25.
+//
+
+#ifndef LEETCODE__0300_LONGEST_INCREASING_SUBSEQUENCE_H
+#define LEETCODE__0300_LONGEST_INCREASING_SUBSEQUENCE_H
+
+
+class _0300_Longest_Increasing_Subsequence {
+
+
+
+};
+
+
+#endif // LEETCODE__0300_LONGEST_INCREASING_SUBSEQUENCE_H

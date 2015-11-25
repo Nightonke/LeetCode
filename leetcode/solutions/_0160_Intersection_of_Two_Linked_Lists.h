@@ -1,0 +1,16 @@
+//
+// Created by Weiping Huang on 2015/11/25.
+//
+
+#ifndef LEETCODE__0160_INTERSECTION_OF_TWO_LINKED_LISTS_H
+#define LEETCODE__0160_INTERSECTION_OF_TWO_LINKED_LISTS_H
+
+
+class _0160_Intersection_of_Two_Linked_Lists {
+
+
+
+};
+
+
+#endif // LEETCODE__0160_INTERSECTION_OF_TWO_LINKED_LISTS_H

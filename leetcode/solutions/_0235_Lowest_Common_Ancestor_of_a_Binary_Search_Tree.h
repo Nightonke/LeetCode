@@ -1,0 +1,16 @@
+//
+// Created by Weiping Huang on 2015/11/25.
+//
+
+#ifndef LEETCODE__0235_LOWEST_COMMON_ANCESTOR_OF_A_BINARY_SEARCH_TREE_H
+#define LEETCODE__0235_LOWEST_COMMON_ANCESTOR_OF_A_BINARY_SEARCH_TREE_H
+
+
+class _0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree {
+
+
+
+};
+
+
+#endif // LEETCODE__0235_LOWEST_COMMON_ANCESTOR_OF_A_BINARY_SEARCH_TREE_H

@@ -1,0 +1,16 @@
+//
+// Created by Weiping Huang on 2015/11/25.
+//
+
+#ifndef LEETCODE__0302_SMALLEST_RECTANGLE_ENCLOSING_BLACK_PIXELS_H
+#define LEETCODE__0302_SMALLEST_RECTANGLE_ENCLOSING_BLACK_PIXELS_H
+
+
+class _0302_Smallest_Rectangle_Enclosing_Black_Pixels {
+
+
+
+};
+
+
+#endif // LEETCODE__0302_SMALLEST_RECTANGLE_ENCLOSING_BLACK_PIXELS_H

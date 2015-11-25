@@ -1,0 +1,16 @@
+//
+// Created by Weiping Huang on 2015/11/25.
+//
+
+#ifndef LEETCODE__0241_DIFFERENT_WAYS_TO_ADD_PARENTHESES_H
+#define LEETCODE__0241_DIFFERENT_WAYS_TO_ADD_PARENTHESES_H
+
+
+class _0241_Different_Ways_to_Add_Parentheses {
+
+
+
+};
+
+
+#endif // LEETCODE__0241_DIFFERENT_WAYS_TO_ADD_PARENTHESES_H
