@@ -8,7 +8,18 @@
 
 class _0268_Missing_Number {
 
-
+    class Solution {
+    public:
+        int missingNumber(vector<int> & nums) {
+            int XOR = 0;
+            XOR ^= nums.size();
+            for (int i = nums.size() - 1; i >= 0; i--) {
+                XOR ^= nums[i];  // XOR ^ nums[0, 1, 2, ... n - 1]
+                XOR ^= i;  // XOR ^ 0, 1, 2, ... n
+            }
+            return XOR;
+        }
+    };
 
 };
 
